@@ -1,0 +1,18 @@
+plugins { id 'java' }
+group 'common-aut-holanda'
+version '1.0-SNAPSHOT'
+
+repositories { mavenCentral() }
+
+
+
+
+dependencies {
+    testCompile group: 'org.testng', name: 'testng', version: '6.14.3'
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.0.0-alpha-1'
+    compile group: 'io.github.sukgu', name: 'automation', version: '0.0.4'
+    compile group: 'org.apache.poi', name: 'poi', version: '3.9'
+    compile group: 'io.qameta.allure', name: 'allure-java-commons', version: '2.12.0'
+}
+
+test { useTestNG() { useDefaultListeners = true } }
