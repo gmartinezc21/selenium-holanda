@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Gradle suite" duration-ms="30352" started-at="2019-05-23T19:21:22Z" finished-at="2019-05-23T19:21:52Z">
+    <groups>
+    </groups>
+    <test name="Gradle test" duration-ms="30352" started-at="2019-05-23T19:21:22Z" finished-at="2019-05-23T19:21:52Z">
+      <class name="escenarios.TC002">
+        <test-method status="PASS" signature="init()[pri:0, instance:escenarios.TC002@3af68951]" name="init" is-config="true" duration-ms="15" started-at="2019-05-23T19:21:22Z" finished-at="2019-05-23T19:21:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="beforeTestSetup()[pri:0, instance:escenarios.TC002@3af68951]" name="beforeTestSetup" is-config="true" duration-ms="5671" started-at="2019-05-23T19:21:22Z" finished-at="2019-05-23T19:21:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestSetup -->
+        <test-method status="PASS" signature="runTest01()[pri:0, instance:escenarios.TC002@3af68951]" name="runTest01" duration-ms="20842" started-at="2019-05-23T19:21:28Z" finished-at="2019-05-23T19:21:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTest01 -->
+        <test-method status="PASS" signature="beforeTestSetup()[pri:0, instance:escenarios.TC002@3af68951]" name="beforeTestSetup" is-config="true" duration-ms="3117" started-at="2019-05-23T19:21:48Z" finished-at="2019-05-23T19:21:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestSetup -->
+        <test-method status="PASS" signature="runTest02()[pri:0, instance:escenarios.TC002@3af68951]" name="runTest02" duration-ms="0" started-at="2019-05-23T19:21:52Z" finished-at="2019-05-23T19:21:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTest02 -->
+        <test-method status="PASS" signature="afterTestSetup()[pri:0, instance:escenarios.TC002@3af68951]" name="afterTestSetup" is-config="true" duration-ms="684" started-at="2019-05-23T19:21:52Z" finished-at="2019-05-23T19:21:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestSetup -->
+      </class> <!-- escenarios.TC002 -->
+    </test> <!-- Gradle test -->
+  </suite> <!-- Gradle suite -->
+</testng-results>

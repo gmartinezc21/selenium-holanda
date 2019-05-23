@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="escenarios.TC002" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-05-23T19:21:28" hostname="NBEXEB3X155" time="23.963">
+  <properties/>
+  <testcase name="runTest01" classname="escenarios.TC002" time="20.842"/>
+  <testcase name="runTest02" classname="escenarios.TC002" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}) on port 22800
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+may 23, 2019 3:21:28 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+]]></system-err>
+</testsuite>

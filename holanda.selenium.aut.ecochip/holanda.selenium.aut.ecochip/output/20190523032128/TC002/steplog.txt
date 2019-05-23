@@ -1,0 +1,6 @@
+navigate;http://bci-front-cer01.us-south.containers.mybluemix.net/nuevaWeb/fe-ecochip-widget-re-v1-0/;ir a http://bci-front-cer01.us-south.containers.mybluemix.net/nuevaWeb/fe-ecochip-widget-re-v1-0/;ir a http://bci-front-cer01.us-south.containers.mybluemix.net/nuevaWeb/fe-ecochip-widget-re-v1-0/;pass;output/20190523032128/TC002/evidence/00navigate.png
+sendKeys;form > bci-wk-input-text > input[type=text] ;busqueda de 177324272;busqueda de 177324272;pass;output/20190523032128/TC002/evidence/01sendKeys.png
+click;form > bci-wk-select.top-margin-40.upLabel.ng-touched.ng-dirty.ng-valid.bci-blur > select > option:nth-child(1) ;Click en el elemento;Click en el elemento;pass;output/20190523032128/TC002/evidence/02click.png
+click;form > bci-wk-select:nth-child(3) > select > option:nth-child(22) ;Click en el elemento;Click en el elemento;pass;output/20190523032128/TC002/evidence/03click.png
+click;form > bci-wk-select:nth-child(4) > select > option:nth-child(1);Click en el elemento;Click en el elemento;pass;output/20190523032128/TC002/evidence/04click.png
+click;form > button;Click en el elemento;Click en el elemento;pass;output/20190523032128/TC002/evidence/05click.png
